@@ -1,0 +1,19 @@
+# Скомпільовані файли
+*.class
+
+# Папки збірки IDE
+/out/
+/target/
+/bin/
+
+# Файли IntelliJ IDEA
+.idea/
+*.iml
+
+# Файли Eclipse
+.classpath
+.project
+.settings/
+
+# Системні файли
+.DS_Store
